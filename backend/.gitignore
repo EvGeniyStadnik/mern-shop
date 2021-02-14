@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+.idea
+.vscode
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Distribution
+build
+dist
